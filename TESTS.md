@@ -9,11 +9,16 @@
 sudo -H pip3 install pytest
 ```
 
-- ## 01 Cuenta Números
+- ## Estacionamiento
     ### Run command
     ```
-    pytest assignments/01CuentaNumeros 
+    pytest assignments/Estacionamiento 
     ```
 
+- ## InteresPeriodoMensual
+    ### Run command
+    ```
+    pytest assignments/InteresPeriodoMensual 
+    ```
 
     
